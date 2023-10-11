@@ -21,3 +21,11 @@ export const restar = (a: number, b: number): number => a - b;
  * @returns {number} The product of the two input numbers.
  */
 export const multiplicar = (a: number, b: number): number => a * b;
+
+/**
+ * Divides two numbers and returns their product.
+ * @param {number} a - The first number.
+ * @param {number} b - The second number.
+ * @returns {number} The product of the two input numbers.
+ */
+export const dividir = (a: number, b: number): number => a / b;
