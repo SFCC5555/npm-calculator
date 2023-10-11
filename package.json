@@ -1,0 +1,24 @@
+{
+  "name": "npm-calculator-sfcc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc src/index.ts --outDir dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SFCC5555/npm-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SFCC5555/npm-calculator/issues"
+  },
+  "homepage": "https://github.com/SFCC5555/npm-calculator#readme",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
+}
